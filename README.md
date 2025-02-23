@@ -11,4 +11,4 @@ A static Amazon homepage clone built using HTML and CSS to replicate the basic s
 
 ## 🛠️ Technologies Used
  - HTML5
- - CSS3 (Flexbox & Grid)
+ - CSS
